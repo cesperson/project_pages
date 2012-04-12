@@ -1,0 +1,190 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title></title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<meta name="viewport" content="width=device-width">
+
+    <link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+    
+
+    <link rel="stylesheet" href="css/GGS.css"/> 
+	<link rel="stylesheet" href="css/style.css">
+    <script src="js/GGS.js"></script>
+
+	<script src="js/libs/modernizr-2.5.3.min.js"></script>
+    <!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
+</head>
+<body>
+
+<!-- Demo code begins -->
+
+<header>
+    <div class="wrapper">
+        <h1>Projects</h1>
+    </div>
+</header>
+
+
+<article id="oneway">
+    <div class="wrapper">
+        <h2>"Do things, tell people." <!--Here's some of my front-end development and design work. Jack of some trades, someday I'll be a master of one.--></h2>
+        <p>
+            I designed one-page, in-depth looks at some projects I'm working on. I've always found it interesting to see how other people work. I hope someone finds how I work interesting.  
+        </p>
+    </div>
+</article>
+
+<article id="fourway" class="overview-list">
+    <section class="wrapper">
+        <h3>Cesperson.com</h3>
+        <img src="img/graybox.jpg" />
+        <p>
+            I've maintained a personal photography blog since 2004. I redesigned again in 2012 and wrote more about it than you probably care to know.</p>
+    </section>
+    <section class="wrapper">
+        <h3>Jetman Concept</h3>
+        <img src="img/graybox.jpg" />
+        <p>
+            I sketched a game idea. Then I wanted to play it. Not quite there yet but I'll be tracking my progress.
+        </p>
+    </section>
+    <section class="wrapper">
+        <h3>Card Game Tutorial</h3>
+        <img src="img/graybox.jpg" />
+        <p>
+            Plenty of people know a variation of Big 2. This tutorial will show you how 
+        </p>
+    </section>
+</article>
+
+<article id="oneway" class="other-list">
+    <div class="wrapper">
+        <h2>Disaster response wireframes</h2>
+        <p>
+            these two blocks of text will float side by side with some empty columns on the sides on large screens. on medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </div>
+</article>
+<article id="twoway">
+    <section class="wrapper">
+        <h3>A two-way split</h3>
+        <p>
+            These two blocks of text will float side by side with some empty columns on the sides on large screens. On medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </section>
+    <section class="wrapper">
+        <h3>By the way</h3>
+        <p>
+            If you're viewing this page on an iOS device, it might zoom in wonkily when you rotate your device. This is because of <a href="http://filamentgroup.com/examples/iosScaleBug/">a Mobile Safari bug</a>.
+        </p>
+    </section>
+</article>
+
+<article id="oneway" class="other-list">
+    <div class="wrapper">
+        <h2>365 Design Project</h2>
+        <p>
+            these two blocks of text will float side by side with some empty columns on the sides on large screens. on medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </div>
+</article>
+<article id="twoway">
+    <section class="wrapper">
+        <h3>A two-way split</h3>
+        <p>
+            These two blocks of text will float side by side with some empty columns on the sides on large screens. On medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </section>
+    <section class="wrapper">
+        <h3>By the way</h3>
+        <p>
+            If you're viewing this page on an iOS device, it might zoom in wonkily when you rotate your device. This is because of <a href="http://filamentgroup.com/examples/iosScaleBug/">a Mobile Safari bug</a>.
+        </p>
+    </section>
+</article>
+
+<article id="oneway" class="other-list">
+    <div class="wrapper">
+        <h2>P90X iPad Mockup</h2>
+        <p>
+            these two blocks of text will float side by side with some empty columns on the sides on large screens. on medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </div>
+</article>
+<article id="twoway">
+    <section class="wrapper">
+        <h3>A two-way split</h3>
+        <p>
+            These two blocks of text will float side by side with some empty columns on the sides on large screens. On medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </section>
+    <section class="wrapper">
+        <h3>By the way</h3>
+        <p>
+            If you're viewing this page on an iOS device, it might zoom in wonkily when you rotate your device. This is because of <a href="http://filamentgroup.com/examples/iosScaleBug/">a Mobile Safari bug</a>.
+        </p>
+    </section>
+</article>
+
+<article id="oneway" class="other-list">
+    <div class="wrapper">
+        <h2>It Is Aerogel</h2>
+        <p>
+            these two blocks of text will float side by side with some empty columns on the sides on large screens. on medium-sized screens the empty columns will disappear, and on small screens the blocks will be stacked vertically.
+        </p>
+    </div>
+</article>
+
+<article id="twoway">
+    <section class="wrapper">
+        <h3>By the way</h3>
+        <p>
+            If you're viewing this page on an iOS device, it might zoom in wonkily when you rotate your device. This is because of <a href="http://filamentgroup.com/examples/iosScaleBug/">a Mobile Safari bug</a>.
+        </p>
+    </section>
+    <section class="wrapper">
+        <h3>Note:</h3>
+        <p>
+            It is no longer Aerogel.
+        </p>
+    </section>
+</article>
+
+<article id="oneway">
+    <div class="wrapper">
+        <h2>"Do things, <em>don't</em> tell people."</h2>
+        <p>
+            The projects I've shown are done in my free time. For the day job, I'm in a rotational program at a Navy research center so I've worked on a few very cool projects. Unfortunately, I pretty much can't show what I've made. Most of my time has been spent with the center's User Centered Design group, where I'm lucky to be surrounded by people much smarter than I am.</p>
+    </div>
+</article>
+
+<!-- Demo code ends -->
+
+<!--<header>
+
+</header>
+<div role="main">
+
+</div>
+-->
+
+<footer>
+
+</footer>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.js"><\/script>')</script>
+
+<script src="js/script.js"></script>
+</body>
+</html>
