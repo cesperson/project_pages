@@ -86,7 +86,9 @@ header {
     background-color: #333;
     -moz-box-shadow: 10px 10px 5px #888;
     -webkit-box-shadow: 10px 10px 5px #888;
-    box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 30px #333;
+
+    -webkit-border-radius: 10px;
 }
 
 header h1 {
@@ -111,33 +113,53 @@ p {
     margin-bottom: 2em;
 }
 
+
 #oneway {
     font-size: 1.1em;
 }
 
+#fourway {
+}
+
+
 .overview-list {
-    padding-bottom: 2em;
-    margin-bottom: 2em;
+    padding-bottom: 4em;
     border-bottom: 1px solid #ccc;
     clear: both;
     display: inline-block;
 }
 
 
-.overview-list .wrapper {
-}
 
 .overview-list .wrapper p {
     margin-bottom: 0;
-    font-size: .9em;
 }
 
-.overview-list img {
+#oneway .wrapper img {
+    margin-bottom: 2em;
+}
+
+#twoway .wrapper img {
+    width: 100%;
+    height: auto;
+    margin-left: -3%;
+    margin-bottom: 1.2em;
+    padding: 3%;
+    border: 1px solid #eee;
+
+    -moz-box-shadow: 10px 10px 5px #888;
+    -webkit-box-shadow: 10px 10px 5px #888;
+    box-shadow: 0 0 10px #ccc;
+}
+
+#twoway .wrapper:nth-child(2) img {
+}
+
+#fourway .wrapper img {
     width: 75%;
     height: auto;
     margin-top: 1em;
     margin-bottom: 1.2em;
-    margin-left: 3%;
     padding: 5%;
     border: 1px solid #eee;
 
@@ -147,24 +169,33 @@ p {
 }
 
 .other-list {
+    padding-top: 3em;
+}
+.other-list h2 {
+    margin: 0;
+    margin-bottom: 0.8em;
 }
 
-.other-list p {
+.caption {
+    font-style: italic;
 }
 
-.other-list img {
-    width: 96%;
-    height: auto;
-    margin-bottom: 2em;
-    padding: 2%;
-    border: 1px solid #eee;
-
-    -moz-box-shadow: 10px 10px 5px #888;
-    -webkit-box-shadow: 10px 10px 5px #888;
-    box-shadow: 0 0 10px #ccc;
-}
 
 .other-list:last {
+}
+
+img.no-border, #twoway .wrapper img.no-border {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border: 0;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#twoway .wrapper img.no-border {
+    margin-bottom: 2em;
 }
 
 
